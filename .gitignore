@@ -1,0 +1,31 @@
+# Visual Studio local state
+.vs/
+*.suo
+*.user
+*.VC.db
+*.VC.opendb
+
+# Build and installer outputs
+/output/
+/output-tmp/
+/installer-output/
+x64/
+Win32/
+/LayoutKeeper/Release/
+
+# MSVC intermediate files
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.ipch
+*.aps
+
+# Local diagnostic utilities
+/windowid/
+/GetSettings/
+
+# directory with relases
+/releases/
+
+*.sgui

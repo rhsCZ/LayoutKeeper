@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Win32" />
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="LayoutKeeper.vcxproj" Id="cefdc129-15e2-4243-9cfb-98f69df7250b" />
+</Solution>
